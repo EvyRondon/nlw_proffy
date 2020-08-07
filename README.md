@@ -1,6 +1,6 @@
 # Next Level Week - Proffy :rocket:
-
-Estudando novas funcionalidades:
+<br>
+Estudando novas funcionalidades: <br>
  -HTML <br>
  -CSS <br>
  -Javascript. <br>

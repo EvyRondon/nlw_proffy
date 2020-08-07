@@ -1,10 +1,10 @@
-# Next Level Week - Proffy ::rocket::
+# Next Level Week - Proffy :rocket:
 
 Estudando novas funcionalidades:
- -HTML
- -CSS
- -Javascript.
- -Node.JS 
- -SQLite
+ -HTML <br>
+ -CSS <br>
+ -Javascript. <br>
+ -Node.JS <br>
+ -SQLite <br>
  
  

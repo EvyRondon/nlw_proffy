@@ -54,7 +54,7 @@
 <li>Faça um clone do repositório:</li>
 </ol>
 
-<div class="highlight highlight-source-shell"><pre>  $ git clone git@github.com:lobophf/Proffy.git</pre></div>
+<div class="highlight highlight-source-shell"><pre>  $ git clone git@github.com:EvyRondon/nlw_proffy.git</pre></div>
 
 <ol start="2">
 <li>Acesse a pasta Proffy:</li>

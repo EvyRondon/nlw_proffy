@@ -1,0 +1,53 @@
+#page-success {
+    background-image: url("/images/success-background.svg");
+    background-repeat: no-repeat;
+    background-color: var(--color-primary);
+    background-position: center;
+    width: 100%;
+}
+
+#page-success #container p {
+    color: var(--color-text-in-primary);
+    line-height: 2.8rem;
+    margin-top: 2.6rem;
+}
+
+#page-success #container h2 {
+    color: var(--color-title-in-primary);
+    font-weight: 700;
+    font-size: 4.6rem;
+    line-height: 4.6rem;
+    margin-top: .8rem;
+    /* font-style: Archivo; */
+}
+
+.success-container {
+    text-align: center;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin: 6.2rem 0;
+}
+
+.button-container a {
+    width: 20rem;
+    height: 6.2rem;
+    border-radius: .8rem;
+    /* margin-right: 1.6rem; */
+    /* font: 700 2.4 Archivo; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    transition: background 0.2s;
+    color: var(--color-button-text);
+
+    background: var(--color-secondary)
+}
+
+.button-container a:hover{
+    background: var(--color-secondary-dark);
+}
+
